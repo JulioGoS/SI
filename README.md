@@ -1,2 +1,1 @@
-# SI
-Tareas de Sistemas de informacion
+# Sistemas de informacion
